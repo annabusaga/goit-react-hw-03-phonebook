@@ -1,0 +1,6 @@
+.btn{
+    background-color: yellow;
+        cursor: pointer;
+        border-radius: 50px;
+        border: 2px solid green;
+}
